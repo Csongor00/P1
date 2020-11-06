@@ -1,0 +1,5 @@
+print("hello")
+print("nagyon jo ez a program")
+print("Udv program")
+print()
+print("hello \n Nagyon jo ez a prgoram!\n Udv program" )
